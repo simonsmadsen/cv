@@ -27,22 +27,22 @@ export default function App() {
             <br /> ⌨
           </h1>
           <p className="text-gray-200  mt-2 text-sm leading-6">
-            Hello there, and welcome to my website. My name is Simon. I see
-            myself as a passionated programmer. I have been programming in many
-            languages and varied my programming style several times over the
+            Hello there. Welcome to my website. My name is Simon. I see
+            myself as a passionated programmer. I've been programming in many
+            languages & varied my programming style several times over the
             years <br />
             Programming is a hobby to me. I love to explore new ideas, languages
-            & discuss different solutions in my free time. In my opinion, we
-            should try to, challenge the defaults and explore new ways to solve
+            & discuss different solutions in my free time. In my opinion we
+            should try to challenge the defaults & explore new ways to solve
             problems.
           </p>
           <h2 className="mt-5 text-gray-200 text-lg font-semibold">
             My personal stuff 🥳
           </h2>
           <p className="text-gray-200 text-sm max-w-3xl leading-6">
-            I'm living in Odense with my girlfriend and our little girl Ella. I
-            enjoy going to the gym first thing in the morning. The rest of my
-            free time is used with my family and friends.
+            I'm living in Odense with my girlfriend & our little girl Ella. I
+            enjoy going to the gym as the first thing in the morning. The rest of my
+            free time is used with my family & friends.
           </p>
           <h2 className="mt-5 text-gray-200 text-lg font-semibold">
             My current Hobby stack 🏡
@@ -92,13 +92,13 @@ export default function App() {
               <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
                 Enjoying being a part of the PWBS Teams at TV2 working on
                 play.tv2.dk, checkout.tv2.dk, mit.tv2.dk & help build a brand
-                new app for Samsung and LG smart TVs. <br />
+                new app for Samsung & LG smart TVs. <br />
                 <br />
                 <span className="font-bold text-white text-sm">
                   Current Hobby projects:
                    </span>{" "} <br />
                    🕸️📱 Wip: Work in progress is my fitness app. Build for Web, iOS & Android with React Native, React & Rust.<br />
-                  📀 Sunsun:  My data collection summer project, where I'm collecting weather forecasts and observations to decide who brings the best weather forecasts. Build with Rust, AWS scheduler, AWS Fargate.
+                  📀 Sunsun:  My data collection summer project, where I'm collecting weather forecasts & observations to decide who brings the best weather forecasts. Build with Rust, AWS scheduler, AWS Fargate.
 
               </p>
             </li>
@@ -112,7 +112,7 @@ export default function App() {
               </h3>
               <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
                 Starting my own Business with a co-worker from Exotech.
-                <br /> Building Mobile Applications using React Native and AWS
+                <br /> Building Mobile Applications using React Native & AWS
                 Serverless.
                 <br /> <br />
                 <span className="font-bold text-white text-sm">
@@ -120,10 +120,10 @@ export default function App() {
                 </span>{" "}
                 <br />
                 📱 Thirsty: Mobile Application to help nightclub owners promote,
-                sell and engage with their customers. Build for Android & iOS
+                sell & engage with their customers. Build for Android & iOS
                 with React Native, Node.js, AWS Serverless <br />
                 📱 KeepItSimple: Mobile Application to help people fight
-                addictions and find open meetings. Build for Android & iOS with
+                addictions & find open meetings. Build for Android & iOS with
                 React Native, Node.js, AWS Serverless <br />
                 🕸️ Kintella: Web Application to help nursing homes, with connecting next of kin & their residents. Build for Web with NextJS, AWS
                 Serverless.
@@ -164,10 +164,10 @@ export default function App() {
                   📸 Images
                 </span>{" "}
                 <br />
-                💻 Bubobubo (Exotech): a purchasing system for schools and other
+                💻 Bubobubo (Exotech): a purchasing system for schools & other
                 institutions. Build for windows with Delphi
                 <br />
-                💻 Car Workshop bn.dk (Exotech): Windows Application to manage mechanics and cars in the workshop. Build for Windows with
+                💻 Car Workshop bn.dk (Exotech): Windows Application to manage mechanics & cars in the workshop. Build for Windows with
                 Delphi.
               </p>
             </li>
@@ -180,12 +180,12 @@ export default function App() {
                 Exotech
               </h3>
               <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-              Working for Exotech, creating and maintaining windows applications. <br /> <br />
+              Working for Exotech, creating & maintaining windows applications. <br /> <br />
                 <span className="font-bold text-white text-sm">
                   Biggest project:
                 </span>{" "}
                 <br />
-                📱 EQS: Mobile Application to help plumbers coordinate and report
+                📱 EQS: Mobile Application to help plumbers coordinate & report
 work. Build for Android & iOS with Delphi.
               </p>
             </li>
@@ -198,7 +198,7 @@ work. Build for Android & iOS with Delphi.
                 Computer Science Specialist AP Degree
               </h3>
               <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                Writing C# in school and making Laravel sites as a side hustle.
+                Writing C# in school & making Laravel sites as a side hustle.
 
                 <span className="font-bold text-white text-sm">
                   Biggest projects:
@@ -217,7 +217,7 @@ work. Build for Android & iOS with Delphi.
                 Webintegrator (PHP, AJAX, Codeigniter)
               </h3>
               <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                Programming websites in basic HTML, CSS, and PHP. WordPress &
+                Programming websites in basic HTML, CSS & PHP. WordPress &
                 Codeigniter all day.
               </p>
             </li>
@@ -228,7 +228,7 @@ work. Build for Android & iOS with Delphi.
               </time>
               <h3 class="text-lg font-semibold text-gray-900 dark:text-white"></h3>
               <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                Creating static HTML/CSS websites, everytime our counter-strike
+                Creating static HTML/CSS websites everytime our counter-strike
                 clan changed name.
               </p>
             </li>
