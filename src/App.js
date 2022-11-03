@@ -29,7 +29,7 @@ export default function App() {
           <p className="text-gray-200  mt-2 text-sm leading-6">
             Hello there, and welcome to my website. My name is Simon. I see
             myself as a passionated programmer. I have been programming in many
-            languages and varied my programming style several times, over the
+            languages and varied my programming style several times over the
             years <br />
             Programming is a hobby to me. I love to explore new ideas, languages
             & discuss different solutions in my free time. In my opinion, we
