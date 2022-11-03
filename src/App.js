@@ -50,7 +50,7 @@ export default function App() {
           <p className="text-gray-200 mt-1 text-sm max-w-3xl leading-6">
             📱 React Native - with expo.
             <br /> 💻 Next JS - with typescript.
-            <br /> 🦀 Rust - with Async Grapql, database from planetscale(good
+            <br /> 🦀 Rust - with Async Graphql, database from planetscale(good
             old mysql) & hosted at fargate aws. <br />
             🔨 Github action as pipeline/gitops. <br />
             👨🏼‍🎨 Tailwindcss ❤️
