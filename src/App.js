@@ -102,6 +102,7 @@ export default function App() {
                 </span>{" "}
                 <br />
                 General maintaining of play.tv2.dk<br />
+                General maintaining our subscription & commercial graphql service.<br />
                 Adding an addon (Paramount+) to the play. (mostly on the checkout site).<br />
                 Making UI Experiments possible, using adobe target and Prismic.io<br />
                 Switching play.tv2.dk from JS to Typescript. <br />
