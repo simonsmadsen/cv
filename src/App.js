@@ -80,37 +80,57 @@ export default function App() {
           <h2 className="mt-5  text-gray-200 text-2xl font-semibold">
             Here is a brief overview of my programming journey
           </h2>
-          <ol class="relative mt-2 border-l border-gray-200 dark:border-gray-700 ml-[-1rem]">
+          <ol class="relative mt-2 border-l  border-gray-700 ml-[-1rem]">
             <li class="mb-10 ml-4">
-              <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-              <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+              <div class="absolute w-3 h-3  rounded-full mt-1.5 -left-1.5 border   border-gray-900  bg-gray-700"></div>
+              <time class="mb-1 text-sm font-normal leading-none   text-gray-500">
                 now
               </time>
-              <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
-                Play Web & Big screens TV2
-              </h3>
-              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+              
+              <p class="text-lg font-semibold text-white">
+                Play Web & Big screens TV
+              </p>
+                
+              
+              <p class="mb-4 text-base font-normal  text-gray-400">
                 Enjoying being a part of the PWBS Teams at TV2 working on
                 play.tv2.dk, checkout.tv2.dk, mit.tv2.dk & help build a brand
                 new app for Samsung & LG smart TVs. <br />
                 <br />
+                <span className="font-bold text-white text-sm mt-4">
+                  Biggest projects I have been a part of:
+                </span>{" "}
+                <br />
+                General maintaining of play.tv2.dk<br />
+                Adding an addon (Paramount+) to the play. (mostly on the checkout site).<br />
+                Making UI Experiments possible, using adobe target and Prismic.io<br />
+                Switching play.tv2.dk from JS to Typescript. <br />
+                Building a brand new SmartTv App for Samsung & LG. <br />
+                <br /> <span className="font-bold text-white text-sm mt-4">
+                Conferences & courses
+                </span>{" "}<br />
+                KubeCon + CloudNativeCon Europe 2022<br />
+                Eficode: Kubernetes Application Deployment<br />
+                Eficode: Mastering Git
+                <br /><br />
                 <span className="font-bold text-white text-sm">
                   Current Hobby projects:
                    </span>{" "} <br />
                    🕸️📱 Wip: Work in progress is my fitness app. Build for Web, iOS & Android with React Native, React & Rust.<br />
                   📀 Sunsun:  My data collection summer project, where I'm collecting weather forecasts & observations to decide who brings the best weather forecasts. Build with Rust, AWS scheduler, AWS Fargate.
 
+
               </p>
             </li>
             <li class="mb-10 ml-4">
-              <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-              <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+              <div class="absolute w-3 h-3  rounded-full mt-1.5 -left-1.5 border   border-gray-900  bg-gray-700"></div>
+              <time class="mb-1 text-sm font-normal leading-none   text-gray-500">
                 2020
               </time>
-              <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
+              <p class="text-lg font-semibold  text-white">
                 Codespace
-              </h3>
-              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+              </p>
+              <p class="mb-4 text-base font-normal  text-gray-400">
                 Starting my own Business with a co-worker from Exotech.
                 <br /> Building Mobile Applications using React Native & AWS
                 Serverless.
@@ -130,15 +150,15 @@ export default function App() {
               </p>
             </li>
             <li class="mb-10 ml-4">
-              <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-              <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+              <div class="absolute w-3 h-3  rounded-full mt-1.5 -left-1.5 border  border-gray-900  bg-gray-700"></div>
+              <time class="mb-1 text-sm font-normal leading-none  text-gray-500">
                 2018
               </time>
-              <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
+              <p class="text-lg font-semibold  text-white">
                 Exotech & Appinto
-              </h3>
+              </p>
 
-              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+              <p class="mb-4 text-base font-normal text-gray-400">
                 Started a small App company (Appinto) with a friend, doing our
                 own projects. While still working for Exotech. <br />
                 <br />
@@ -172,14 +192,14 @@ export default function App() {
               </p>
             </li>
             <li class="mb-10 ml-4">
-              <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-              <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+              <div class="absolute w-3 h-3 rounded-full mt-1.5 -left-1.5 border   border-gray-900  bg-gray-700"></div>
+              <time class="mb-1 text-sm font-normal leading-none  text-gray-500">
                 2016
               </time>
-              <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
+              <p class="text-lg font-semibold   text-white">
                 Exotech
-              </h3>
-              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+              </p>
+              <p class="mb-4 text-base font-normal  text-gray-400">
               Working for Exotech, creating & maintaining windows applications. <br /> <br />
                 <span className="font-bold text-white text-sm">
                   Biggest project:
@@ -190,14 +210,14 @@ work. Build for Android & iOS with Delphi.
               </p>
             </li>
             <li class="mb-10 ml-4">
-              <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-              <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+              <div class="absolute w-3 h-3  rounded-full mt-1.5 -left-1.5 border   border-gray-900  bg-gray-700"></div>
+              <time class="mb-1 text-sm font-normal leading-none   text-gray-500">
                 2015
               </time>
-              <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
+              <p class="text-lg font-semibold   text-white">
                 Computer Science Specialist AP Degree
-              </h3>
-              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+              </p>
+              <p class="mb-4 text-base font-normal  text-gray-400">
                 Writing C# in school & making Laravel sites as a side hustle.
 
                 <span className="font-bold text-white text-sm">
@@ -209,35 +229,35 @@ work. Build for Android & iOS with Delphi.
               </p>
             </li>
             <li class="mb-10 ml-4">
-              <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-              <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+              <div class="absolute w-3 h-3  rounded-full mt-1.5 -left-1.5 border   border-gray-900  bg-gray-700"></div>
+              <time class="mb-1 text-sm font-normal leading-none  text-gray-500">
                 2013
               </time>
-              <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
+              <p class="text-lg font-semibold  text-white">
                 Webintegrator (PHP, AJAX, Codeigniter)
-              </h3>
-              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+              </p>
+              <p class="mb-4 text-base font-normal  text-gray-400">
                 Programming websites in basic HTML, CSS & PHP. WordPress &
                 Codeigniter all day.
               </p>
             </li>
             <li class="mb-10 ml-4">
-              <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-              <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+              <div class="absolute w-3 h-3  rounded-full mt-1.5 -left-1.5 border  border-gray-900  bg-gray-700"></div>
+              <time class="mb-1 text-sm font-normal leading-none  text-gray-500">
                 2011
               </time>
-              <h3 class="text-lg font-semibold text-gray-900 dark:text-white"></h3>
-              <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+              <p class="text-lg font-semibold  text-white"></p>
+              <p class="mb-4 text-base font-normal   text-gray-400">
                 Creating static HTML/CSS websites everytime our counter-strike
                 clan changed name.
               </p>
             </li>
             <li class="ml-4 mb-[200px]">
-              <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-              <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+              <div class="absolute w-3 h-3 rounded-full mt-1.5 -left-1.5 border border-gray-900  bg-gray-700"></div>
+              <time class="mb-1 text-sm font-normal leading-none  text-gray-500">
                 -
               </time>
-              <h3 class="text-lg font-semibold text-gray-900 dark:text-white"></h3>
+              <p class="text-lg font-semibold m text-white"></p>
             </li>
           </ol>
         </div>
@@ -253,15 +273,15 @@ function Modal({ modal, setModal }) {
       class="overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 w-full md:inset-0 h-modal md:h-full flex justify-center content-center items-center bg-slate-900/90"
     >
       <div class="relative p-4 w-full max-w-2xl h-full md:h-auto">
-        <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
-          <div class="flex justify-between items-start p-4 rounded-t border-b dark:border-gray-600">
-            <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
+        <div class="relative bg-white rounded-lg shadow  bg-gray-700">
+          <div class="flex justify-between items-start p-4 rounded-t border-b  border-gray-600">
+            <p class="text-xl font-semibold text-gray-900  text-white">
               {modal[0]}
-            </h3>
+            </p>
             <button
               type="button"
               onClick={() => setModal(undefined)}
-              class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm p-1.5 ml-auto inline-flex items-center dark:hover:bg-gray-600 dark:hover:text-white"
+              class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm p-1.5 ml-auto inline-flex items-center  hover:bg-gray-600  hover:text-white"
             >
               <svg
                 aria-hidden="true"
